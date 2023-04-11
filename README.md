@@ -1,7 +1,7 @@
 # bent-branch-MTR-change
 ## Evidence of Mountaintop Removal Mining and Valley Fills in Two Mining Sites
 
-From the 1990s to the 2010s, the two mountain ranges on either side of Bent Branch Road in Pikeville, Kentucky exhibited significant mountaintop removal (visualized in violet shades) and subsequent valley fills (visualized in green shades). 
+From the 1990s to the 2010s, the two mountain ranges on either side of Bent Branch Road in Pikeville, Kentucky exhibited significant mountaintop removal on several peaks(visualized in violet shades) and subsequent valley fills in several adjacent valleys and mountainsides (visualized in green shades). 
 
 ![Caption of map](M6_BentBranchMTR.jpg)     
 *Map of mass terrain modification in the twin MTR sites of Bent Branch Road.* [Link to high-resolution PDF](M6_BentBranchMTR.pdf)     
