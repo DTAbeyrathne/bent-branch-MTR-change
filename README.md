@@ -10,4 +10,4 @@ From the 1990s to the 2010s, the two mountain ranges on either side of Bent Bran
 *Brief animation showcasing a fly-by of the extent of mountaintop removal and valley fills in Bent Branch.* [Bent Branch Twins (MTR and Valley Fills Visualization)](https://youtu.be/pTUduVC-E-E) 
 
 
-This map & animation were created by Dilni Abeyrathne @DTAbeyrathne for the GEO409-001 (Spring 2023) class in the University of Kentucky’s Department of Geography. This webpage visualization was published on April 10th, 2023.
+This map & animation were created by Dilni Abeyrathne @DTAbeyrathne for the GEO409-001 (Spring 2023) class in the University of Kentucky’s Department of Geography. Datasets used in the map were sourced from USGS (1990s) and KyFromAbove (2010s) Digital Elevation Models. This webpage visualization was published on April 10th, 2023.
